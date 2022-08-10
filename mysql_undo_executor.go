@@ -14,7 +14,7 @@ import (
 )
 
 import (
-	"github.com/opentrx/mysql/schema"
+	"github.com/PangXing/seata-go-mysql/schema"
 )
 
 const (

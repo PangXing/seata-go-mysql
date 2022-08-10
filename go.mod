@@ -1,4 +1,4 @@
-module github.com/opentrx/mysql
+module github.com/PangXing/seata-go-mysql
 
 go 1.10
 
@@ -6,6 +6,7 @@ require (
 	github.com/go-playground/assert/v2 v2.0.1
 	github.com/golang/protobuf v1.3.4
 	github.com/google/go-cmp v0.5.2
+	github.com/google/martian v2.1.0+incompatible
 	github.com/kr/text v0.2.0 // indirect
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pingcap/parser v0.0.0-20200424075042-8222d8b724a4

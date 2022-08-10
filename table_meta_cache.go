@@ -15,7 +15,7 @@ import (
 )
 
 import (
-	"github.com/opentrx/mysql/schema"
+	"github.com/PangXing/seata-go-mysql/schema"
 )
 
 var EXPIRE_TIME = 15 * time.Minute
